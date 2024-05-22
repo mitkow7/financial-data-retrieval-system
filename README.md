@@ -1,6 +1,3 @@
-
----
-
 # 🚀 Financial Data Retrieval System
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
@@ -50,7 +47,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 📬 Contact
 
 For questions or feedback, reach out to [mitkow7](https://github.com/mitkow7).
-
----
-
-Feel free to make further adjustments to better match the tone and branding of your project!
