@@ -29,9 +29,7 @@ Welcome to the **Financial Data Retrieval System** – your one-stop solution fo
 
 ```plaintext
 financial-data-retrieval-system/
-├── config.json
 ├── financial_data_retrieval_system.py
-├── requirements.txt
 ├── README.md
 └── LICENSE
 ```
