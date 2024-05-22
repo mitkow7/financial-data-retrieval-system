@@ -1,4 +1,3 @@
-Sure! Here's a README with more emojis and without the installation section:
 
 ---
 
