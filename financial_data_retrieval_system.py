@@ -83,7 +83,7 @@ class FinancialDataRetrievalSystem:
 
 
 def get_company_share_price(company_symbol):
-    # Retrieve the current price of shares for a given company using the share API
+    # Retrieve the current price of shares for a given company using yfinance
 
     data = yf.Ticker(company_symbol)
 
@@ -93,7 +93,7 @@ def get_company_share_price(company_symbol):
 
 
 def get_company_info(company_symbol):
-    # Retrieve additional information about a company (e.g., name, sector) using the share API
+    # Retrieve additional information about a company (e.g., name, sector) using yfinance
 
     data = yf.Ticker(company_symbol)
 
